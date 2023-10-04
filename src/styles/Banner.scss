@@ -1,19 +1,15 @@
 .banner {
-    border-radius: 5px;
-  
-    .navbar {
-      background-color: #FFC0CB;
+  border-radius: 5px;
+
+    .banner-menu {
       display: flex;
-      justify-content: space-between;
       align-items: center;
-      padding: 10px;
-  
+      
       .nav-link {
         text-decoration: none;
         color: #fff;
         margin: 0 10px;
-        font-weight: bold;
-  
+        
         &:hover {
           text-decoration: underline;
         }

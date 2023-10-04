@@ -4,6 +4,9 @@ import Footer from "../components/Footer.jsx";
 import Projects from '../components/Projects.jsx';
 import '../styles/Projects.scss';
 
+
+
+
 function ProjectsPage() {
     return (
       <div className='projects'>
