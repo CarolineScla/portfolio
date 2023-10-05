@@ -1,4 +1,11 @@
-.container {
-    margin: 0px;
-    padding: 0px;
-}
+.home-main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+  }
+  
+  .home-container {
+    flex-grow: 1; 
+    flex-direction: column;
+  }
+  

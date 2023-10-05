@@ -7,8 +7,8 @@ import '../styles/Home.scss';
 
 function Home() {
     return (
-      <div className='container'>
-          <div className='main_conatiner'>
+      <div className='home-main'>
+          <div className='home-container'>
             <Banner />
             <Content />
         </div>
